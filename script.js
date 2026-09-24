@@ -19,7 +19,7 @@ if (year) year.textContent = new Date().getFullYear();
 
 // IMPORTANT: Replace this with your own WhatsApp number in international format.
 // Example for an Indian number: 919876543210
-const WHATSAPP_NUMBER = '919834807990';
+const WHATSAPP_NUMBER = '917719820393';
 
 const orderForm = document.getElementById('orderForm');
 orderForm?.addEventListener('submit', function(e) {
